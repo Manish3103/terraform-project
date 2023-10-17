@@ -3,10 +3,10 @@ variable "bucketname" {
 }
 variable "sec-access_key" {
   type = string
-default = "AKIA6GMGJKBKEVT6TNT6"
+default = "Paste here your access key "
 }
 variable "sec-secret_key" {
   type = string
-  default = "H8f7O/NFWKwenhfjRsgKRq6Q+e6oB+t93X/OjTk6"
+  default = "Paste here your secret key"
 
 }
